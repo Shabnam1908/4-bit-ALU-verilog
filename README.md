@@ -43,3 +43,5 @@ You can test this project using:
 ---
 
 ## 📊 Expected Output Example
+This waveform shows the correct output (OUT) for various operations selected by the SEL code, confirming the ALU's funtionality.
+![Simulation showing 4-bit ALU operations](assets/waveform.png)
